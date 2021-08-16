@@ -1,0 +1,19 @@
+package tuts17;
+class Machine {
+	private String name;
+	// constructor :
+	public Machine() {
+		System.out.println("constructor running running running");
+		name = "Arnie!";
+	}
+	public Machine(String name) {
+		this.name = name;
+	}
+}
+
+public class Appies {
+	public static void main(String[] args) {
+		Machine machine1 = new Machine();
+//		System.out.println(machine1.name);
+	}
+}

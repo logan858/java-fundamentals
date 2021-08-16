@@ -1,0 +1,23 @@
+package tuts19;
+
+public class Appies {
+	public static void main(String[] args) {
+		
+		//inefficient: string's are immutable in java, and doing this makes a new string and re-assigns 'info' to it, using tons of memory
+		String info = "";
+		
+		info += "My name is Bobby";
+		info += " ";
+		info += "I am a builder!";
+		
+		System.out.println(info);
+		
+		//better:
+		StringBuilder sb = new StringBuilder("");
+		sb.append("My name is Sue.");
+		sb.append(" ");
+		sb.append("I am a lion tamer!");
+		
+		System.out.println(sb);
+	}
+}

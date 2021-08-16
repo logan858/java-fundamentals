@@ -1,0 +1,8 @@
+package tuts6;
+
+
+public class Appies {
+	 public static void main(String[] args) {
+		Scanner input;
+	}
+}

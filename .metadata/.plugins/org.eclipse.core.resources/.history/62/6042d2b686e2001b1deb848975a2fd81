@@ -1,0 +1,18 @@
+package tuts6;
+import java.util.Scanner;
+
+public class Appies {
+	 public static void main(String[] args) {
+		// making a new Scanner object 
+		Scanner input = new Scanner(System.in);
+		
+		// prompt
+		System.out.println("Enter a line of text: ");
+		
+		// waits for user input
+		int newLine = input.nextInt();
+		
+		//outputs when user is done inputting
+		System.out.println("you entered: " + newLine);
+	}
+}

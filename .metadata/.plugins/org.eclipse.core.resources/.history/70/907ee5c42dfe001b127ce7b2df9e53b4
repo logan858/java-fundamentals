@@ -1,0 +1,14 @@
+package tuts15;
+
+class Robot {
+	public void speak(text) {
+		System.out.println(text);
+	}
+}
+
+public class Appies {
+	public static void main(String[] args) {
+		Robot sam = new Robot();
+		sam.speak("hi im sam");
+	}
+}

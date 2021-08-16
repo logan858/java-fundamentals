@@ -1,0 +1,9 @@
+package tuts4forloop;
+
+public class Appies {
+	public static void main(String[] args) {
+		for(;;) {
+			System.out.println("allo");
+		}
+	}
+}

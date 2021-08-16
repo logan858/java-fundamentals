@@ -1,0 +1,2 @@
+module tuts6 {
+}

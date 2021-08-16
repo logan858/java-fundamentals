@@ -1,0 +1,22 @@
+package tuts18;
+class Thing{
+	public String name;
+	public static String descript; 
+	
+}
+
+
+public class Appies {
+	public static void main(String[] args) {
+		Thing thing1 = new Thing();
+		Thing thing2 = new Thing();
+		
+		
+		thing1.name = "bob";
+		thing2.name = "sue";
+		
+		System.out.println(thing1.name);
+		System.out.println(thing2.name);
+		
+	}
+}

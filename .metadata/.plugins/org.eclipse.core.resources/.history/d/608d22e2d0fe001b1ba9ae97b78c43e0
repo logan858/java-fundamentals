@@ -1,0 +1,14 @@
+package tuts20;
+
+class Frog {
+	public String toString() {
+		return "test"; 
+	}
+}
+public class Appies {
+	public static void main(String[] args) {
+		Frog frog1 = new Front();
+	
+		System.out.println(frog1);
+	}
+}
