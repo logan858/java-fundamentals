@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/tuts19/src/tuts19/Appies.java"/>
+        <listEntry value="/tuts21/src/tuts21/Appies.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tuts19.Appies"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="tuts19"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="tuts19"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="tuts21.Appies"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="tuts21"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="tuts21"/>
 </launchConfiguration>
